@@ -2,16 +2,18 @@
 
 # 제 깃허브 프로필에 오신것을 환영합니다.
  
- ### <center> 📖ㆍlearning </center>
+### <center> 📖ㆍlearning </center>
  <p align="center">
 <img src = "https://img.shields.io/badge/Unity-808080?style=plastic-red&logo=Unity&logoColor=black">
 <img src = "https://img.shields.io/badge/C%23-00CC66?style=plastic-red&logo=Csharp&logoColor=white">
 <img src ="https://img.shields.io/badge/python-CCCC00?style=plastic-red&logo=Python&logoColor=white">
 </p>
 <br>
-</dive
+</dive>
 
-------
+-----
+
+
 [![Gondr's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlckdgh0414)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -23,6 +25,6 @@
 앞으로 열심히 노력하는 개발자가되어보겠습니다.<br>
 제 리드미를 읽어주셔서 감사합니다.
 
-### <center>📲ㆍ***Contact***</center>
+ ### <center>📲ㆍContact</center>
 <center>📧 : ci5976547@gmail.com</center>
-</div>
+</dive>
