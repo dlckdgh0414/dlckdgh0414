@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=Changho&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
 
-# Welcome to my gitgub repository
+# Welcome to my github repository
 
 ### 안녕하세요 저는 경기게임마이스터고에 입학한 이창호입니다. <br> 
 
