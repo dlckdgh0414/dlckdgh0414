@@ -7,6 +7,7 @@
 <img src = "https://img.shields.io/badge/Unity-808080?style=plastic-red&logo=Unity&logoColor=black">
 <img src = "https://img.shields.io/badge/C%23-00CC66?style=plastic-red&logo=Csharp&logoColor=white">
 <img src ="https://img.shields.io/badge/python-CCCC00?style=plastic-red&logo=Python&logoColor=white">
+<div aline= "center">
 
 -----
 
@@ -24,3 +25,4 @@
 
  ### <center>📲ㆍ**Contact**</center>
 <center>📧 : ci5976547@gmail.com</center>
+<div aline= "center">
