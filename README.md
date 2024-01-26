@@ -1,12 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=L&fontColor=00000)
 
 # 제 깃허브 프로필에 오신것을 환영합니다.
+ 
+ ### <center> 📖ㆍ**learning**</center>
  <div align= "center">
- <center> 📖ㆍlearning</center>
-<cemter> <img src = "https://img.shields.io/badge/Unity-808080?style=plastic-red&logo=Unity&logoColor=black">
+ 
+<center><img src = "https://img.shields.io/badge/Unity-808080?style=plastic-red&logo=Unity&logoColor=black">
 <img src = "https://img.shields.io/badge/C%23-00CC66?style=plastic-red&logo=Csharp&logoColor=white">
 <img src ="https://img.shields.io/badge/python-CCCC00?style=plastic-red&logo=Python&logoColor=white"></center>
 <div align= "center">
+
 
 
 -----
