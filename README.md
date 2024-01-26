@@ -14,7 +14,7 @@
 
 -----
 
-**제 목표는 이 학교에서 미친 듯이 노력하여 제가 하고 싶은 꿈을 다 이뤄보는게 목표입니다.**
+**제 다짐은 이 학교에서 미친 듯이 노력하여게임 개발에 미치자가 다짐입니다.**
 ---------
 
 ![](https://cdn.discordapp.com/attachments/949983647866421279/1200098291245924482/sEEdrKpFtMnm8yJO5LSeUOnM1SgDBu7f5Rdf2tQuQl3OA8vKtbNOYEptCkT-KK42IubMJG-Em5b0igVQK8S69A.webp?ex=65c4f1a1&is=65b27ca1&hm=e001185d5423f675bfe203d1de3c895be3d7d1e7f83ea23f195463584ce204cc&)
