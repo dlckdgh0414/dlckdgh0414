@@ -4,7 +4,7 @@
  
  ### <center> 📖ㆍ**learning**</center>
  <div align= "center">
- 
+
 <center><img src = "https://img.shields.io/badge/Unity-808080?style=plastic-red&logo=Unity&logoColor=black">
 <img src = "https://img.shields.io/badge/C%23-00CC66?style=plastic-red&logo=Csharp&logoColor=white">
 <img src ="https://img.shields.io/badge/python-CCCC00?style=plastic-red&logo=Python&logoColor=white"></center>
@@ -22,7 +22,7 @@
 앞으로 열심히 노력하는 개발자가되어보겠습니다.<br>
 제 리드미를 읽어주셔서 감사합니다.
 
------
+# Github stats, BaekJoon Rank
 [![Gondr's GitHub stats](https://github-readme-stats.vercel.app/api?username=gondr99)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlckdgh)](https://solved.ac/dlckdgh)
